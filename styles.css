@@ -4,7 +4,8 @@ h1 {
 }
 
 body {
-  margin: 0;
+  min-width: 700px;
+  margin: 5%;
   padding: 0;
   background-color: #f1f1f1;
   color: #0f141e;
